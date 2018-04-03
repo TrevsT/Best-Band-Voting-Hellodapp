@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "name": "The Beetles",
+    "picture": "images/beatles.jpeg",
+    "year": "1957 - 1970",
+    "bio_url": "https://en.wikipedia.org/wiki/The_Beatles"
+  },
+  {
+    "id": 1,
+    "name": "U2",
+    "picture": "images/u2.jpg",
+    "year": "Since 1976",
+    "bio_url": "www.u2.com/band"
+  },
+  {
+    "id": 2,
+    "name": "Queen",
+    "picture": "images/queen.jpg",
+    "year": "Since 1970",
+    "bio_url": ""
+  },
+  {
+    "id": 3,
+    "name": "AC/DC",
+    "picture": "images/AC_DC.jpg",
+    "year": "Since 1973",
+    "bio_url": ""
+  },
+  {
+    "id": 4,
+    "name": "Black Sabbath",
+    "picture": "images/BlackSabbath.jpg",
+    "year": "1968 - 2017",
+    "bio_url": ""
+  },
+  {
+    "id": 5,
+    "name": "Pink Floyd",
+    "picture": "images/pink floyd.jpg",
+    "year": "1965 - 2014",
+    "bio_url": ""
+  },
+  {
+    "id": 6,
+    "name": "Nirvana",
+    "picture": "images/nirvana.jpeg",
+    "year": "1987 - 1994",
+    "bio_url": ""
+  },
+  {
+    "id": 7,
+    "name": "Metallica ",
+    "picture": "images/metallica.jpeg",
+    "year": "Since 1981",
+    "bio_url": ""
+  },
+  {
+    "id": 8,
+    "name": "Journey",
+    "picture": "images/journey.jpg",
+    "year": "Since 1973",
+    "bio_url": ""
+  },
+  {
+    "id": 9,
+    "name": "Led Zeppelin",
+    "picture": "images/led zeppelin.jpg",
+    "year": "1968 - 1980",
+    "bio_url": ""
+  }
+]
