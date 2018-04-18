@@ -16,7 +16,6 @@ contract TestVoting{
 Voting voting = Voting(DeployedAddresses.Voting());
 
 
-	function testGetCandidateNames() public {
 //Trev testing constructor issue
 	bytes32 public assignedCandidate;
 
